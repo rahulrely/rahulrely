@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-    Coming Soon
+    <div>Coming Soon</div>
     </>
   )
 }
