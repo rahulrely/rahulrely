@@ -1,6 +1,6 @@
 # 💻 Rahul | Computer Science & Engineering Student  
 
-Hi there 👋 I'm **Rahul Singh**, an aspiring **Software Development Engineer (SDE)** with interests in **Full-Stack Development** and **DevOps**. I love building projects, exploring new technologies, and continuously improving my problem-solving skills.  
+Hi there [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm **Rahul Singh**, an aspiring **Software Development Engineer (SDE)** with interests in **Full-Stack Development** and **DevOps**. I love building projects, exploring new technologies, and continuously improving my problem-solving skills.  
 
 ---
 
