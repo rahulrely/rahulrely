@@ -24,7 +24,7 @@ Hi there [](https://user-images.githubusercontent.com/18350557/176309783-0785949
 
 ## 📌 Featured Projects  
 - 🎬 [**Video Management Dashboard**](https://retube.live) – Built with Next.js + Cloudinary for video upload & playback  
-- 🤖 [**Agentic AI**](https://github.com/syntaxmatrix/agent) – Currently building Agentic AI with classmates at **@SyntaxMatrix**  
+- 🤖 [**Agentic AI**](https://github.com/syntaxmatrix/agent) – Currently building Agentic AI with classmates at [**@SyntaxMatrix**](https://github.com/syntaxmatrix)  
 
 ----
 
