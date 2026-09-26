@@ -1,15 +1,12 @@
 # 💻 Rahul | Computer Science & Engineering Student  
 
-Hi there [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm **Rahul Singh**, an aspiring **Software Development Engineer (SDE)** with interests in **Full-Stack Development** and **DevOps**. I love building projects, exploring new technologies, and continuously improving my problem-solving skills.  
+Hi there [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif). I'm **Rahul Singh**, an aspiring **Software Development Engineer (SDE)** with interests in **Full-Stack Development** and **DevOps**. I love building projects, exploring new technologies, and continuously improving my problem-solving skills.  
 
 ---
 
 ## 🚀 About Me  
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering** (Graduating 2026)  
-- 💡 Interested in **SDE roles** and **DevOps engineering**  
-- 🌱 Currently learning: **SQL, System Design, and Advanced Web Development**  
-- 🛠️ Working with **Next.js, React, Node.js, Prisma, Cloudinary, MongoDB, PostgreSQL**  
-- 💼 Goal: Become a disciplined and impactful **Software Engineer**  
+- 🎓 Graduated with a **B.E.** in **Computer Science & Engineering** in 2026
+- 💡 Interested in **SDE roles** and **DevOps engineering**
 
 ---
 
@@ -18,7 +15,7 @@ Hi there [](https://user-images.githubusercontent.com/18350557/176309783-0785949
 - **Frontend:** React, Next.js, Tailwind CSS  
 - **Backend:** Node.js, Express.js, Prisma  
 - **Database:** PostgreSQL, MongoDB, MySQL  
-- **DevOps & Tools:** Git, GitHub, Docker, Cloudinary, Linux, VS Code  
+- **Cloud & DevOps**: Microsoft Azure, AWS, Docker, Jenkins, Kubernetes, CI/CD Pipelines, Linux, Terraform 
 
 ---
 
